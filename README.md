@@ -1,5 +1,5 @@
-# yii2
-================
+# yii2 常用分享
+
 Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提交过来的开源项目最好是你用过的，并且觉得好用的）
 
 ## Sites 网站
@@ -7,6 +7,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiifeed](http://yiifeed.com/)：Yii 最新动态都在这里
 - [yiigist](https://yiigist.com/)：Yii 专用的 Packages
 - [my-yii](https://www.my-yii.com/)：Yii 学习资料和新闻
+- [bsourcecode](http://www.bsourcecode.com/yiiframework2/)：Yii 扩展或插件文档
+
 
 ## Docs 文档
 

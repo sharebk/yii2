@@ -9,6 +9,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [my-yii](https://www.my-yii.com/)：Yii 学习资料和新闻
 - [bsourcecode](http://www.bsourcecode.com/yiiframework2/)：Yii 扩展或插件文档
 - [yii2-advanced-one-domain-config](https://github.com/mickgeek/yii2-advanced-one-domain-config)：Yii Advance一个域名前台后台
+- [yii2admin](https://github.com/e282486518/yii2admin)：通用的yii2后台
+
 
 ## Docs 文档
 
@@ -73,6 +75,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit)：[sweetalert](https://github.com/t4t5/sweetalert)一个漂亮的弹出框
 - [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools)：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 - [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields)：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
+- [yii2-multiple-input](https://github.com/unclead/yii2-multiple-input)： yii2-multiple-input
+
 
 
 ## Extension 扩展

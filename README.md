@@ -10,6 +10,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [bsourcecode](http://www.bsourcecode.com/yiiframework2/)：Yii 扩展或插件文档
 - [yii2-advanced-one-domain-config](https://github.com/mickgeek/yii2-advanced-one-domain-config)：Yii Advance一个域名前台后台
 - [yii2admin](https://github.com/e282486518/yii2admin)：通用的yii2后台
+- [Shop-PHP-Yii2](https://github.com/EleTeam/Shop-PHP-Yii2)：EleTeam开源项目-电商全套解决方案之PHP版-Shop-for-PHP-Yii2
+
 
 
 ## Docs 文档
@@ -76,6 +78,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools)：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 - [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields)：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
 - [yii2-multiple-input](https://github.com/unclead/yii2-multiple-input)： yii2-multiple-input
+- [yii2-sweet-alert](https://github.com/yii2mod/yii2-sweet-alert)： 弹出框
+
 
 
 

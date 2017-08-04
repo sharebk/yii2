@@ -8,7 +8,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiigist](https://yiigist.com/)：Yii 专用的 Packages
 - [my-yii](https://www.my-yii.com/)：Yii 学习资料和新闻
 - [bsourcecode](http://www.bsourcecode.com/yiiframework2/)：Yii 扩展或插件文档
-
+- [yii2-advanced-one-domain-config](https://github.com/mickgeek/yii2-advanced-one-domain-config)：Yii Advance一个域名前台后台
 
 ## Docs 文档
 
@@ -66,6 +66,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Widgets 小部件
 
+- [yii2-widget-cropbox](https://github.com/bupy7/yii2-widget-cropbox)：Yii2 上传并切图
 - [kop/yii2-scroll-pager](https://github.com/kop/yii2-scroll-pager)：瀑布滚动翻页
 - [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager)：带分页大小的分页栏
 - [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform)：通过ajax提交表单
@@ -89,6 +90,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [crontab](https://github.com/yii2tech/crontab)：Yii2 定时任务
 - [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu)：Yii2 grid行右击操作
 - [yii2-smser](https://github.com/daixianceng/yii2-smser)：国内短信扩展
+- [yii2-smarty](https://github.com/yiisoft/yii2-smarty)：Yii2 Smarty
 - [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
 - [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 - [jamband/yii2-schemadump](https://github.com/jamband/yii2-schemadump)：用命令的方式对现有的数据库生成数据库迁移代码，内有 gif 演示。
@@ -106,6 +108,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [yiister/yii2-advanced-grid](https://github.com/yiister/yii2-advanced-grid)：高级版的 grid，有[在线 demo](http://yiister.ru/projects/advanced-grid) 体验。
 - [hellowearemito/yii2-sentry](https://github.com/hellowearemito/yii2-sentry)： 收集日志神器——[Sentry](https://getsentry.com/) 的 Yii2 扩展。
 - [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue)：有望成为官网异步扩展的队列
+- [BigKuCha/yii2-ueditor-widget](https://github.com/BigKuCha/yii2-ueditor-widget)：Baidu Editor
+
 
 ## Themes 主题模板
 

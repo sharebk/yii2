@@ -134,6 +134,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [Bsourcecode Yii2.0 系列文章（英文）](http://www.bsourcecode.com/yiiframework2/)
 - [krajee Yii2.0 系列文章（英文）](http://webtips.krajee.com/tag/yii/)
 - [PHP开源框架Yii2系列](http://www.cnblogs.com/ganiks/tag/yii2/)：有很多关于 Yii2 RESTful 的使用
+- [PHP Composer](http://www.phpcomposer.com/)：PHP Composer中国镜像
 
 
 ## Videos 视频
